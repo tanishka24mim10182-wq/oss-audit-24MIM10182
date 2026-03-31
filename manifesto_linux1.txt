@@ -1,0 +1,8 @@
+--- MY OPEN SOURCE MANIFESTO ---
+Created on: 30 March 2026
+By: linux1
+
+In the world of software, I rely on Apache HTTP Server to get my work done.
+To me, 'freedom' in technology is best described as: Transparency.
+I believe in the power of sharing, and if I could, I would build a community website and give it to the world for free.
+==========================================
