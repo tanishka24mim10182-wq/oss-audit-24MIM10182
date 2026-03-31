@@ -18,6 +18,7 @@ follow these steps in your terminal:
 5: Log File AnalyzerCommand: ./script4.sh /var/log/apache2/error.log errorWhat it does: Reads the log file line-by-line to count specific keywords (e.g., "error").Script
 
 6: Manifesto GeneratorCommand: ./script5.shWhat it does: Asks three interactive questions and generates a personalized .txt statement.
+
 Script Descriptions & LogicScript:
 
 1: Uses command substitution to pull live data from the kernel.Script
